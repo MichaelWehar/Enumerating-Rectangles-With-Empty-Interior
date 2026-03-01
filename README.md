@@ -20,6 +20,9 @@ In addition, we apply the algorithm to an example use case where we find and col
 First, you will need to `npm install canvas`.
 Then, you can type `node test.js` and `node color_image.js` to run the code.
 
+## Related Works
+This algorithm was used within the [Composition](https://michaelwehar.wordpress.com/2024/10/28/algoart-13-composition/) drawing algorithm from the [AlgoArt Platform](https://algoart.org).  Examples of the generated images can be viewed within [AlgoArt's Gallery](https://algoart.org/gallery.html?algid=alg11).
+
 ## Credits
 Coded by Xingyu Dong and Michael Wehar.
 Released under MIT License.
